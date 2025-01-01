@@ -1,7 +1,8 @@
-## Hi there 👋
+Oii, eu sou a Tayana Araujo. Seja bem vindo! 
 
-<!--
-**tayanaaraujo/tayanaaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=tayanaaraujo&show_icons=true&theme=radical&include_all_commits=true">|<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayanaaraujo&langs_count=8&theme=tokyonight&title_color=c49ab4" align="left">
+|--|--|
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
